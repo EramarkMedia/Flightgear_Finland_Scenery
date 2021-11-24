@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>"myfile".ac</path>
+</PropertyList>
+
+<!-- Approach Light -->
+  <model>
+    <path>Scenery/Models/Airport/"approach_light.xml"</path>
+    <offsets>
+      <x-m>-8.9088</x-m>
+      <y-m>-0.0811</y-m>
+      <z-m>-1.0722</z-m>
+      <pitch-deg>-10</pitch-deg>
+    </offsets>
+  </model>
